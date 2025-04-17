@@ -1,6 +1,6 @@
 # Nepalese Student Association (NSA) Website @ MSU
 
-Welcome to the official website source code for the **Nepalese Student Association at Mississippi State University**. This website serves as a portal for current students, alumni, and newcomers to stay informed, engaged, and connected with NSA activities and resources.
+Welcome to the official website source code for the **Nepalese Student Association at Mississippi State University**. This website serves as a portal for current students, alumni, and newcomers to stay informed, engaged, and connected with NSA activities and resources. Visit the live website @[www.nsamsstate.org](https://www.nsamsstate.org/)
 
 ---
 
