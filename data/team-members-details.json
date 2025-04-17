@@ -1,0 +1,73 @@
+[
+    {
+      "profile_image_path": "img/team-images/saphal-upreti.jpeg",
+      "Name": "Saphal Upreti",
+      "Position": "President",
+      "LinkedInURL": "https://www.linkedin.com/in/saphal33/"
+    },
+    {
+      "profile_image_path": "img/team-images/bikal-ghimire.jpg",
+      "Name": "Bikal Ghimire",
+      "Position": "Vice-President",
+      "LinkedInURL": "https://www.linkedin.com/in/bikal-ghimire-239b112a5/"
+    },
+    {
+      "profile_image_path": "img/team-images/adarsha-lamichanne.jpeg",
+      "Name": "Aadarsha Lamichanne",
+      "Position": "Secretary",
+      "LinkedInURL": "https://www.linkedin.com/in/aadarsha-lamichhane-1819042ab/"
+    },
+    {
+      "profile_image_path": "img/team-images/sushant-dhakal.png",
+      "Name": "Sushant Dhakal",
+      "Position": "Treasurer",
+      "LinkedInURL": "https://www.linkedin.com/in/sushantdhakal41/"
+    },
+    {
+      "profile_image_path": "img/team-images/alon-gurung.png",
+      "Name": "Alon Gurung",
+      "Position": "Social & Event Coordinator",
+      "LinkedInURL": "https://www.linkedin.com/in/alon-gurung-357834333/"
+    },
+
+    {
+      "profile_image_path": "img/team-images/sarthak-kathiwada.png",
+      "Name": "Sarthak Khatiwada",
+      "Position": "Senior Representative",
+      "LinkedInURL": "https://www.linkedin.com/in/sarthak-khatiwada-9158021b6/"
+    },
+    {
+      "profile_image_path": "img/team-images/pranavi-paudel.png",
+      "Name": "Pranavi Paudel",
+      "Position": "Junior Representative",
+      "LinkedInURL": "https://www.linkedin.com/in/pranavi-paudel-a61a6a214/"
+    },
+    {
+      "profile_image_path": "img/team-images/nimesh-babu-regmi.png",
+      "Name": "Nimeshh",
+      "Position": "Sophomore Representative",
+      "LinkedInURL": ""
+    },
+    {
+      "profile_image_path": "img/team-images/prashant-bhattarai.png",
+      "Name": "Prashant Bhattarai",
+      "Position": "Freshman Representative",
+      "LinkedInURL": "https://www.linkedin.com/in/prashant-bhattarai-a41746292/"
+    },
+    {
+      "profile_image_path": "img/team-images/hemraj-kathayat.png",
+      "Name": "Hemraj Kathayat",
+      "Position": "Grad Representative",
+      "LinkedInURL": "https://www.linkedin.com/in/hemrajkathayat/"
+    },
+    {
+      "profile_image_path": "img/team-images/simran-pandey.jpeg",
+      "Name": "Simran Pandey",
+      "Position": "Grad Representative",
+      "LinkedInURL": "https://www.linkedin.com/in/simran-pandey-121ab41b9/"
+    }
+    
+
+    
+  ]
+  
